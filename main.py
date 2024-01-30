@@ -29,7 +29,7 @@ with open(json_file_path2, 'r', encoding='utf-8') as file2:
     task_json2 = json.load(file2)
 
 # 读取JSON文件
-json_file_path3 = "answer.json"
+json_file_path3 = "answer1.json"
 with open(json_file_path3, 'r', encoding='utf-8') as file3:
     task_json3 = json.load(file3)
 
@@ -62,7 +62,11 @@ for app in task_json:
                     item1 = item
                     found_match = True
                     break
-        answer_text_list = task_json3[question1][item1]
+        try:
+            answer_text_list = task_json3[question1][item1]
+        except:
+            print('notfound')
+            continue
 
         id_list = []
         action_list = []

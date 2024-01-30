@@ -1,0 +1,38 @@
+app_right_num: 6
+app_total_num: 23
+applauncher : 0.2608695652173913
+app_right_num: 11
+app_total_num: 87
+calendar : 0.12643678160919541
+app_right_num: 3
+app_total_num: 43
+clock : 0.06976744186046512
+app_right_num: 10
+app_total_num: 81
+contacts : 0.12345679012345678
+app_right_num: 6
+app_total_num: 67
+dialer : 0.08955223880597014
+app_right_num: 7
+app_total_num: 71
+filemanager : 0.09859154929577464
+app_right_num: 9
+app_total_num: 32
+firefox : 0.28125
+app_right_num: 2
+app_total_num: 36
+gallery : 0.05555555555555555
+notfound
+app_right_num: 10
+app_total_num: 55
+messenger : 0.18181818181818182
+app_right_num: 3
+app_total_num: 39
+musicplayer : 0.07692307692307693
+app_right_num: 7
+app_total_num: 77
+notes : 0.09090909090909091
+app_right_num: 2
+app_total_num: 34
+voicerecorder : 0.058823529411764705
+total accuracy: 0.11782945736434108
